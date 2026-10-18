@@ -1,0 +1,22 @@
+cls,source,pc1,pc2,n
+Agricultural_Land,ArcGIS Map,5.4520416,3.034436,506
+Agricultural_Land,Bing Maps,4.369131,2.5403512,525
+Agricultural_Land,Google Maps,5.966164,1.284826,516
+Beaches_Coastline,ArcGIS Map,2.8513534,1.1391435,515
+Beaches_Coastline,Bing Maps,3.925565,3.5989242,517
+Beaches_Coastline,Google Maps,2.3066516,0.7397911,506
+Built_up_Areas,ArcGIS Map,-6.3993206,5.8208094,505
+Built_up_Areas,Bing Maps,-6.9896398,6.4776525,515
+Built_up_Areas,Google Maps,-3.0713804,6.586425,500
+Grasslands_Open_Land,ArcGIS Map,3.8887868,3.4843104,504
+Grasslands_Open_Land,Bing Maps,4.8972473,4.0747337,505
+Grasslands_Open_Land,Google Maps,3.8147495,2.7603133,500
+Hills_Mountains,ArcGIS Map,-0.55931896,-11.647401,519
+Hills_Mountains,Bing Maps,-2.0330057,-10.633959,545
+Hills_Mountains,Google Maps,0.3566782,-9.160901,456
+Trees_Forests,ArcGIS Map,-2.2555552,-6.3875313,503
+Trees_Forests,Bing Maps,-2.216419,-0.9965671,506
+Trees_Forests,Google Maps,-0.13738346,-4.3172693,517
+Water_Bodies,ArcGIS Map,-8.351559,0.67608017,504
+Water_Bodies,Bing Maps,-3.3773727,0.621061,519
+Water_Bodies,Google Maps,-2.4897346,0.37521258,500

@@ -1,0 +1,58 @@
+{
+ "chi2_class_uniform": {
+  "chi2": 0.6256669474866611,
+  "p": 0.9959570088242696
+ },
+ "chi2_source_uniform": {
+  "chi2": 2.64588598708228,
+  "p": 0.26635028022111973
+ },
+ "chi2_independence_source_class": {
+  "chi2": 7.013218031469663,
+  "p": 0.8567388130976066,
+  "dof": 12,
+  "cramers_v": 0.01811744945353454
+ },
+ "class_total_min_max": [
+  1509,
+  1547
+ ],
+ "imbalance_ratio_class": 1.0251822398939696,
+ "cell_min": [
+  456,
+  [
+   "Google Maps",
+   "Hills_Mountains"
+  ]
+ ],
+ "cell_max": [
+  545,
+  [
+   "Bing Maps",
+   "Hills_Mountains"
+  ]
+ ],
+ "total_MiB": 755.2547883987427,
+ "total_MB": 791.942045,
+ "alpha_all_opaque": true,
+ "kruskal_pixels": {
+  "H": 115.77396813964008,
+  "p": 7.244397040061259e-26
+ },
+ "phash_pairs_by_threshold": {
+  "0": 8,
+  "2": 11,
+  "4": 21,
+  "6": 68,
+  "8": 176,
+  "10": 538
+ },
+ "phash_pairs_cross_class_or_source": {
+  "0": 0,
+  "2": 2,
+  "4": 8,
+  "6": 41,
+  "8": 118,
+  "10": 377
+ }
+}

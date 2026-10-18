@@ -1,0 +1,15 @@
+numpy==2.4.2
+pandas==2.3.3
+scipy==1.17.0
+scikit-learn==1.8.0
+scikit-image==0.26.0
+opencv-python-headless==5.0.0.93
+pillow==12.2.0
+ImageHash==4.3.2
+matplotlib==3.11.2
+seaborn==0.13.2
+geopandas==1.1.4
+shapely==2.1.2
+torch==2.13.0
+torchvision==0.28.0
+transformers==5.2.0

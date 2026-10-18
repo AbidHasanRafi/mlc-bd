@@ -1,0 +1,64 @@
+{
+ "thresholds": {
+  "Agricultural_Land": 0.95,
+  "Beaches_Coastline": 0.952,
+  "Built_up_Areas": 0.967,
+  "Grasslands_Open_Land": 0.92,
+  "Hills_Mountains": 0.973,
+  "Trees_Forests": 0.951,
+  "Water_Bodies": 0.924
+ },
+ "oof_acc": 0.9778152204436956,
+ "n_flag_cl": 16,
+ "pct_flag_cl": 0.14977066367125338,
+ "n_flag_strict": 16,
+ "pct_flag_strict": 0.14977066367125338,
+ "by_class_cl": {
+  "Agricultural_Land": 0.13,
+  "Beaches_Coastline": 0.13,
+  "Built_up_Areas": 0.0,
+  "Grasslands_Open_Land": 0.46,
+  "Hills_Mountains": 0.07,
+  "Trees_Forests": 0.0,
+  "Water_Bodies": 0.26
+ },
+ "by_source_cl": {
+  "ArcGIS Map": 0.06,
+  "Bing Maps": 0.08,
+  "Google Maps": 0.31
+ },
+ "by_class_strict": {
+  "Agricultural_Land": 2,
+  "Beaches_Coastline": 2,
+  "Built_up_Areas": 0,
+  "Grasslands_Open_Land": 7,
+  "Hills_Mountains": 1,
+  "Trees_Forests": 0,
+  "Water_Bodies": 4
+ },
+ "by_source_strict": {
+  "ArcGIS Map": 2,
+  "Bing Maps": 3,
+  "Google Maps": 11
+ },
+ "top_pairs": {
+  "Grasslands_Open_Land -> Beaches_Coastline": 6,
+  "Water_Bodies -> Beaches_Coastline": 4,
+  "Agricultural_Land -> Grasslands_Open_Land": 1,
+  "Agricultural_Land -> Water_Bodies": 1,
+  "Beaches_Coastline -> Water_Bodies": 1,
+  "Beaches_Coastline -> Grasslands_Open_Land": 1,
+  "Grasslands_Open_Land -> Trees_Forests": 1,
+  "Hills_Mountains -> Trees_Forests": 1
+ },
+ "top_pairs_strict": {
+  "Grasslands_Open_Land -> Beaches_Coastline": 6,
+  "Water_Bodies -> Beaches_Coastline": 4,
+  "Agricultural_Land -> Grasslands_Open_Land": 1,
+  "Agricultural_Land -> Water_Bodies": 1,
+  "Beaches_Coastline -> Water_Bodies": 1,
+  "Beaches_Coastline -> Grasslands_Open_Land": 1,
+  "Grasslands_Open_Land -> Trees_Forests": 1,
+  "Hills_Mountains -> Trees_Forests": 1
+ }
+}

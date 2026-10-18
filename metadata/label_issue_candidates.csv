@@ -1,0 +1,17 @@
+file,provider,class,oof_suggested_label,oof_prob_given_label,oof_prob_suggested_label
+ArcGIS Map/Grasslands_Open_Land/ArcGIS_Grasslands_Open_Land_0313.png,ArcGIS Map,Grasslands_Open_Land,Beaches_Coastline,0.0019,0.998
+ArcGIS Map/Grasslands_Open_Land/ArcGIS_Grasslands_Open_Land_0324.png,ArcGIS Map,Grasslands_Open_Land,Beaches_Coastline,0.0079,0.9918
+Bing Maps/Agricultural_Land/Bing_Agricultural_Land_0002.png,Bing Maps,Agricultural_Land,Water_Bodies,0.0015,0.9863
+Bing Maps/Grasslands_Open_Land/Bing_Grasslands_Open_Land_0490.png,Bing Maps,Grasslands_Open_Land,Beaches_Coastline,0.0022,0.9753
+Bing Maps/Water_Bodies/Bing_Water_Bodies_0213.png,Bing Maps,Water_Bodies,Beaches_Coastline,0.0421,0.9566
+Google Maps/Agricultural_Land/Google_Agricultural_Land_0207.png,Google Maps,Agricultural_Land,Grasslands_Open_Land,0.0333,0.966
+Google Maps/Beaches_Coastline/Google_Beaches_Coastline_0134.png,Google Maps,Beaches_Coastline,Grasslands_Open_Land,0.0197,0.98
+Google Maps/Beaches_Coastline/Google_Beaches_Coastline_0347.png,Google Maps,Beaches_Coastline,Water_Bodies,0.0249,0.9748
+Google Maps/Grasslands_Open_Land/Google_Grasslands_Open_Land_0013.png,Google Maps,Grasslands_Open_Land,Beaches_Coastline,0.0446,0.9551
+Google Maps/Grasslands_Open_Land/Google_Grasslands_Open_Land_0134.png,Google Maps,Grasslands_Open_Land,Trees_Forests,0.0089,0.9844
+Google Maps/Grasslands_Open_Land/Google_Grasslands_Open_Land_0354.png,Google Maps,Grasslands_Open_Land,Beaches_Coastline,0.0312,0.9686
+Google Maps/Grasslands_Open_Land/Google_Grasslands_Open_Land_0370.png,Google Maps,Grasslands_Open_Land,Beaches_Coastline,0.0013,0.9889
+Google Maps/Hills_Mountains/Google_Hills_Mountains_0145.png,Google Maps,Hills_Mountains,Trees_Forests,0.0153,0.9846
+Google Maps/Water_Bodies/Google_Water_Bodies_0272.png,Google Maps,Water_Bodies,Beaches_Coastline,0.0015,0.9984
+Google Maps/Water_Bodies/Google_Water_Bodies_0307.png,Google Maps,Water_Bodies,Beaches_Coastline,0.0069,0.993
+Google Maps/Water_Bodies/Google_Water_Bodies_0316.png,Google Maps,Water_Bodies,Beaches_Coastline,0.0221,0.9644

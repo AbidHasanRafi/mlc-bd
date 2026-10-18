@@ -1,0 +1,15 @@
+feat,cls,provider_acc
+resnet50,Agricultural_Land,0.9204912734324499
+resnet50,Beaches_Coastline,0.9759427828348505
+resnet50,Built_up_Areas,0.9651315789473685
+resnet50,Grasslands_Open_Land,0.9648774022531478
+resnet50,Hills_Mountains,0.9703947368421053
+resnet50,Trees_Forests,0.9737876802096985
+resnet50,Water_Bodies,0.8903479973736047
+dinov2s,Agricultural_Land,0.9217840982546864
+dinov2s,Beaches_Coastline,0.9674902470741222
+dinov2s,Built_up_Areas,0.9664473684210526
+dinov2s,Grasslands_Open_Land,0.974155069582505
+dinov2s,Hills_Mountains,0.9842105263157894
+dinov2s,Trees_Forests,0.9895150720838795
+dinov2s,Water_Bodies,0.8745896257386737
